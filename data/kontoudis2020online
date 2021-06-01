@@ -1,7 +1,0 @@
-@inproceedings{kontoudis2020online,
-  title={Online, Model-Free Motion Planning in Dynamic Environments: An Intermittent, Finite Horizon Approach with Continuous-Time Q-Learning},
-  author={Kontoudis, George P and Xu, Zirui and Vamvoudakis, Kyriakos G},
-  booktitle={American Control Conference (ACC)},
-  pages={3873--3878},
-  year={2020}
-}
