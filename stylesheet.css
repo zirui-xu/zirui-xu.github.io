@@ -70,8 +70,8 @@ a {
 
 a:focus,
 a:hover {
-  color: #FFCB05;/*#f09228;*/
-  text-decoration: none;
+  color: #f09228;
+  text-decoration: underline;
 }
 
 body,
@@ -81,13 +81,12 @@ tr,
 p,
 a {
   font-family: 'Poppins', sans-serif;/*'Lato', Verdana, Helvetica, sans-serif;*/
-  font-size: 14px
-  height
+  font-size: 15px;
 }
 
 strong {
   font-family: 'Poppins', sans-serif;/*'Lato', Verdana, Helvetica, sans-serif;*/
-  font-size: 14px;
+  font-size: 15px;
 }
 
 heading {
@@ -97,7 +96,7 @@ heading {
 
 papertitle {
   font-family: 'Poppins', sans-serif;/*'Lato', Verdana, Helvetica, sans-serif;*/
-  font-size: 14px;
+  font-size: 15px;
   font-weight: 700
 }
 
