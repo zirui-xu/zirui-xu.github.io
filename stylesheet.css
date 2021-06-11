@@ -70,8 +70,8 @@ a {
 
 a:focus,
 a:hover {
-  color: #f09228;
-  text-decoration: underline;
+  color:  #f09228;
+  text-decoration: none;
 }
 
 body,
